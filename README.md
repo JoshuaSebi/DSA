@@ -1,2 +1,0 @@
-This repository contains Python solutions to LeetCode problems, organized by data structure and algorithm topics for easy reference and use.
-
